@@ -6,7 +6,7 @@ This project aims to simulate the functionality of a Database Management System 
 
 Extendible Hashing is a dynamic hashing method wherein directories, and buckets are used to hash data. It is an aggressively flexible method in which the hash function also experiences dynamic changes.
 
-You can read more about how Extendible Hashing works (here)[https://en.wikipedia.org/wiki/Extendible_hashing] and also (here)[https://www.geeksforgeeks.org/extendible-hashing-dynamic-approach-to-dbms/]
+You can read more about how Extendible Hashing works [here](https://en.wikipedia.org/wiki/Extendible_hashing) and also [here](https://www.geeksforgeeks.org/extendible-hashing-dynamic-approach-to-dbms/)
 
 ## Block level
 
